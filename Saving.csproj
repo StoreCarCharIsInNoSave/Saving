@@ -1,0 +1,242 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DB54A77B-2D6E-4A45-97E1-F0591159057C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Saving</RootNamespace>
+    <AssemblyName>Saving</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AllFilesCodeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AllFilesCodeForm.Designer.cs">
+      <DependentUpon>AllFilesCodeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Base64CodeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Base64CodeForm.Designer.cs">
+      <DependentUpon>Base64CodeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Base64DecodeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Base64DecodeForm.Designer.cs">
+      <DependentUpon>Base64DecodeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Base64EncoderForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Base64EncoderForm.Designer.cs">
+      <DependentUpon>Base64EncoderForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BinaryEncoderForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BinaryEncoderForm.Designer.cs">
+      <DependentUpon>BinaryEncoderForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HelpForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HelpForm.Designer.cs">
+      <DependentUpon>HelpForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HelpWindowHandler.cs" />
+    <Compile Include="IHATECSHARP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IHATECSHARP.Designer.cs">
+      <DependentUpon>IHATECSHARP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PictureCodeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PictureCodeForm.Designer.cs">
+      <DependentUpon>PictureCodeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PictureDecoderForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PictureDecoderForm.Designer.cs">
+      <DependentUpon>PictureDecoderForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PictureEncoderForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PictureEncoderForm.Designer.cs">
+      <DependentUpon>PictureEncoderForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="TemplateForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TemplateForm.Designer.cs">
+      <DependentUpon>TemplateForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainChoseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainChoseForm.Designer.cs">
+      <DependentUpon>MainChoseForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TextCodeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TextCodeForm.Designer.cs">
+      <DependentUpon>TextCodeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TextDecodeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TextDecodeForm.Designer.cs">
+      <DependentUpon>TextDecodeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TextEncoderForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TextEncoderForm.Designer.cs">
+      <DependentUpon>TextEncoderForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AllFilesCodeForm.resx">
+      <DependentUpon>AllFilesCodeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Base64CodeForm.resx">
+      <DependentUpon>Base64CodeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Base64DecodeForm.resx">
+      <DependentUpon>Base64DecodeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Base64EncoderForm.resx">
+      <DependentUpon>Base64EncoderForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BinaryEncoderForm.resx">
+      <DependentUpon>BinaryEncoderForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HelpForm.resx">
+      <DependentUpon>HelpForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IHATECSHARP.resx">
+      <DependentUpon>IHATECSHARP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PictureCodeForm.resx">
+      <DependentUpon>PictureCodeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PictureDecoderForm.resx">
+      <DependentUpon>PictureDecoderForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PictureEncoderForm.resx">
+      <DependentUpon>PictureEncoderForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TemplateForm.resx">
+      <DependentUpon>TemplateForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainChoseForm.resx">
+      <DependentUpon>MainChoseForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TextCodeForm.resx">
+      <DependentUpon>TextCodeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TextDecodeForm.resx">
+      <DependentUpon>TextDecodeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TextEncoderForm.resx">
+      <DependentUpon>TextEncoderForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Square.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ExitOFF.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ExitON.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HelpOFF.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HelpON.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HelpText.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ButtonOff.jpg" />
+    <Content Include="ButtonOn.jpg" />
+    <None Include="Resources\DragAndDropAnonFileUploaded.jpg" />
+    <None Include="Resources\DragAndDropAnonFile.jpg" />
+    <None Include="Resources\DragAndDropKeyIsLoaded.jpg" />
+    <None Include="Resources\DragAndDropKeyIsMissing.jpg" />
+    <None Include="Resources\DragAndDropKeys.jpg" />
+    <None Include="Resources\DragAndDropPicture.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

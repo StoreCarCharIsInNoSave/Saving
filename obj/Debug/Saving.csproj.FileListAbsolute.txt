@@ -1,0 +1,92 @@
+C:\Users\ITISNOTIMPORTANT\Desktop\Saving\bin\Debug\Saving.exe.config
+C:\Users\ITISNOTIMPORTANT\Desktop\Saving\bin\Debug\Saving.exe
+C:\Users\ITISNOTIMPORTANT\Desktop\Saving\bin\Debug\Saving.pdb
+C:\Users\ITISNOTIMPORTANT\Desktop\Saving\obj\Debug\Saving.csprojAssemblyReference.cache
+C:\Users\ITISNOTIMPORTANT\Desktop\Saving\obj\Debug\Saving.Properties.Resources.resources
+C:\Users\ITISNOTIMPORTANT\Desktop\Saving\obj\Debug\Saving.csproj.GenerateResource.cache
+C:\Users\ITISNOTIMPORTANT\Desktop\Saving\obj\Debug\Saving.exe
+C:\Users\ITISNOTIMPORTANT\Desktop\Saving\obj\Debug\Saving.pdb
+C:\Users\ITISNOTIMPORTANT\Desktop\Saving — копия\obj\Debug\Saving.csprojAssemblyReference.cache
+C:\Users\ITISNOTIMPORTANT\Desktop\Saving — копия\obj\Debug\Saving.Properties.Resources.resources
+C:\Users\ITISNOTIMPORTANT\Desktop\Saving — копия\obj\Debug\Saving.csproj.GenerateResource.cache
+C:\Users\ITISNOTIMPORTANT\Desktop\Saving — копия\obj\Debug\Saving.exe
+C:\Users\ITISNOTIMPORTANT\Desktop\Saving — копия\obj\Debug\Saving.pdb
+C:\Users\ITISNOTIMPORTANT\Desktop\Saving — копия\bin\Debug\Saving.exe.config
+C:\Users\ITISNOTIMPORTANT\Desktop\Saving — копия\bin\Debug\Saving.exe
+C:\Users\ITISNOTIMPORTANT\Desktop\Saving — копия\bin\Debug\Saving.pdb
+C:\Users\ITISNOTIMPORTANT\Desktop\Saving — копия\obj\Debug\Saving.MainChoseForm.resources
+C:\Users\ITISNOTIMPORTANT\Desktop\Saving внедрен\bin\Debug\Saving.exe.config
+C:\Users\ITISNOTIMPORTANT\Desktop\Saving внедрен\bin\Debug\Saving.exe
+C:\Users\ITISNOTIMPORTANT\Desktop\Saving внедрен\bin\Debug\Saving.pdb
+C:\Users\ITISNOTIMPORTANT\Desktop\Saving внедрен\obj\Debug\Saving.csprojAssemblyReference.cache
+C:\Users\ITISNOTIMPORTANT\Desktop\Saving внедрен\obj\Debug\Saving.StartForm.resources
+C:\Users\ITISNOTIMPORTANT\Desktop\Saving внедрен\obj\Debug\Saving.MainChoseForm.resources
+C:\Users\ITISNOTIMPORTANT\Desktop\Saving внедрен\obj\Debug\Saving.Properties.Resources.resources
+C:\Users\ITISNOTIMPORTANT\Desktop\Saving внедрен\obj\Debug\Saving.csproj.GenerateResource.cache
+C:\Users\ITISNOTIMPORTANT\Desktop\Saving внедрен\obj\Debug\Saving.exe
+C:\Users\ITISNOTIMPORTANT\Desktop\Saving внедрен\obj\Debug\Saving.pdb
+C:\Users\ITISNOTIMPORTANT\Desktop\Saving\obj\Debug\Saving.MainChoseForm.resources
+C:\Users\ITISNOTIMPORTANT\Desktop\Saving\obj\Debug\Saving.HelpForm.resources
+C:\Users\ITISNOTIMPORTANT\Desktop\Saving\obj\Debug\Saving.StartForm.resources
+C:\Users\ITISNOTIMPORTANT\Desktop\Saving — копия\obj\Debug\Saving.HelpForm.resources
+C:\Users\ITISNOTIMPORTANT\Desktop\Saving — копия\obj\Debug\Saving.StartForm.resources
+C:\Users\ITISNOTIMPORTANT\Desktop\Saving — копия — копия\bin\Debug\Saving.exe.config
+C:\Users\ITISNOTIMPORTANT\Desktop\Saving — копия — копия\bin\Debug\Saving.exe
+C:\Users\ITISNOTIMPORTANT\Desktop\Saving — копия — копия\bin\Debug\Saving.pdb
+C:\Users\ITISNOTIMPORTANT\Desktop\Saving — копия — копия\obj\Debug\Saving.csprojAssemblyReference.cache
+C:\Users\ITISNOTIMPORTANT\Desktop\Saving — копия — копия\obj\Debug\Saving.HelpForm.resources
+C:\Users\ITISNOTIMPORTANT\Desktop\Saving — копия — копия\obj\Debug\Saving.StartForm.resources
+C:\Users\ITISNOTIMPORTANT\Desktop\Saving — копия — копия\obj\Debug\Saving.MainChoseForm.resources
+C:\Users\ITISNOTIMPORTANT\Desktop\Saving — копия — копия\obj\Debug\Saving.Properties.Resources.resources
+C:\Users\ITISNOTIMPORTANT\Desktop\Saving — копия — копия\obj\Debug\Saving.csproj.GenerateResource.cache
+C:\Users\ITISNOTIMPORTANT\Desktop\Saving — копия — копия\obj\Debug\Saving.exe
+C:\Users\ITISNOTIMPORTANT\Desktop\Saving — копия — копия\obj\Debug\Saving.pdb
+C:\Users\ITISNOTIMPORTANT\Desktop\Saving\obj\Debug\Saving.csproj.CoreCompileInputs.cache
+C:\Users\DOTNETISTRASH\Desktop\Saving\bin\Debug\Saving.exe.config
+C:\Users\DOTNETISTRASH\Desktop\Saving\bin\Debug\Saving.exe
+C:\Users\DOTNETISTRASH\Desktop\Saving\bin\Debug\Saving.pdb
+C:\Users\DOTNETISTRASH\Desktop\Saving\obj\Debug\Saving.csprojAssemblyReference.cache
+C:\Users\DOTNETISTRASH\Desktop\Saving\obj\Debug\Saving.HelpForm.resources
+C:\Users\DOTNETISTRASH\Desktop\Saving\obj\Debug\Saving.StartForm.resources
+C:\Users\DOTNETISTRASH\Desktop\Saving\obj\Debug\Saving.MainChoseForm.resources
+C:\Users\DOTNETISTRASH\Desktop\Saving\obj\Debug\Saving.Properties.Resources.resources
+C:\Users\DOTNETISTRASH\Desktop\Saving\obj\Debug\Saving.csproj.GenerateResource.cache
+C:\Users\DOTNETISTRASH\Desktop\Saving\obj\Debug\Saving.csproj.CoreCompileInputs.cache
+C:\Users\DOTNETISTRASH\Desktop\Saving\obj\Debug\Saving.exe
+C:\Users\DOTNETISTRASH\Desktop\Saving\obj\Debug\Saving.pdb
+C:\Users\DOTNETISTRASH\Desktop\Saving\obj\Debug\Saving.PictureCodeForm.resources
+C:\Users\DOTNETISTRASH\Desktop\Saving\obj\Debug\Saving.IHATECSHARP.resources
+C:\Users\DOTNETISTRASH\Desktop\Saving\obj\Debug\Saving.PictureEncoderForm.resources
+C:\Users\DOTNETISTRASH\Desktop\Saving\obj\Debug\Saving.PictureDecoderForm.resources
+C:\Users\DOTNETISTRASH\Desktop\Saving\obj\Debug\Saving.AllFilesCodeForm.resources
+C:\Users\DOTNETISTRASH\Desktop\Saving\obj\Debug\Saving.BinaryEncoderForm.resources
+C:\Users\DOTNETISTRASH\Desktop\Saving\obj\Debug\Saving.Base64CodeForm.resources
+C:\Users\DOTNETISTRASH\Desktop\Saving\obj\Debug\Saving.Base64EncoderForm.resources
+C:\Users\DOTNETISTRASH\Desktop\Saving\obj\Debug\Saving.Base64DecodeForm.resources
+C:\Users\DOTNETISTRASH\Desktop\Saving\obj\Debug\Saving.TextCodeForm.resources
+C:\Users\DOTNETISTRASH\Desktop\Saving\obj\Debug\Saving.TextEncoderForm.resources
+C:\Users\DOTNETISTRASH\Desktop\Saving\obj\Debug\Saving.TextDecodeForm.resources
+W:\Saving\bin\Debug\Saving.exe.config
+W:\Saving\bin\Debug\Saving.exe
+W:\Saving\bin\Debug\Saving.pdb
+W:\Saving\obj\Debug\Saving.csprojAssemblyReference.cache
+W:\Saving\obj\Debug\Saving.AllFilesCodeForm.resources
+W:\Saving\obj\Debug\Saving.Base64CodeForm.resources
+W:\Saving\obj\Debug\Saving.Base64DecodeForm.resources
+W:\Saving\obj\Debug\Saving.Base64EncoderForm.resources
+W:\Saving\obj\Debug\Saving.BinaryEncoderForm.resources
+W:\Saving\obj\Debug\Saving.HelpForm.resources
+W:\Saving\obj\Debug\Saving.IHATECSHARP.resources
+W:\Saving\obj\Debug\Saving.PictureCodeForm.resources
+W:\Saving\obj\Debug\Saving.PictureDecoderForm.resources
+W:\Saving\obj\Debug\Saving.PictureEncoderForm.resources
+W:\Saving\obj\Debug\Saving.StartForm.resources
+W:\Saving\obj\Debug\Saving.MainChoseForm.resources
+W:\Saving\obj\Debug\Saving.Properties.Resources.resources
+W:\Saving\obj\Debug\Saving.TextCodeForm.resources
+W:\Saving\obj\Debug\Saving.TextDecodeForm.resources
+W:\Saving\obj\Debug\Saving.TextEncoderForm.resources
+W:\Saving\obj\Debug\Saving.csproj.GenerateResource.cache
+W:\Saving\obj\Debug\Saving.csproj.CoreCompileInputs.cache
+W:\Saving\obj\Debug\Saving.exe
+W:\Saving\obj\Debug\Saving.pdb
